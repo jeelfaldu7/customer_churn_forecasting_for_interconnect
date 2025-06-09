@@ -24,6 +24,7 @@ Key highlights:
 
 ## 🛠️ Installation
 To set up the environment locally:
+
   1️. Clone the repository:
   ```
   git clone https://github.com/your-username/churn-prediction.git
