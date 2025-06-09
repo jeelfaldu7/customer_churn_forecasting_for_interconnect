@@ -33,7 +33,7 @@ To set up the environment locally:
   2. Create a virtual environment and activate it:
   ```
   python -m venv venv
-  source venv/bin/activate  # on Windows: venv\Scripts\activate
+  venv\Scripts\activate
   ```
   3. Install the dependencies:
   ```
